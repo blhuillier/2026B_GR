@@ -111,3 +111,11 @@ semester, run `git pull` from the same folder.
 
 Signature $(-,+,+,+)$, so $\eta_{\mu\nu}=\mathrm{diag}(-1,1,1,1)$, and units
 with $c=1$ unless stated otherwise — the same as in the lecture notes.
+
+## License
+
+The code in these notebooks is released under the [MIT License](LICENSE). The
+text, explanations and exercises are released under
+[CC BY 4.0](LICENSE-CONTENT.md): you may reuse and adapt them with credit.
+Material adapted from other authors is excepted; it is listed in
+[`LICENSE-CONTENT.md`](LICENSE-CONTENT.md).
