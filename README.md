@@ -52,7 +52,8 @@ exercises for you to complete.
 
 | Notebook | Chapter | Topic | |
 |----------|---------|-------|-|
-| `einsteinpy.ipynb` | 4 | Metrics with `einsteinpy`; index gymnastics in Minkowski spacetime | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blhuillier/2026B_GR/blob/main/einsteinpy.ipynb) |
+| `ch04_index_gymnastics.ipynb` | 4 | Raising and lowering indices; symmetric and antisymmetric parts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blhuillier/2026B_GR/blob/main/ch04_index_gymnastics.ipynb) |
+| `ch12_christoffel_riemann.ipynb` | 10, 12 | Christoffel symbols and the Riemann tensor with `einsteinpy` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blhuillier/2026B_GR/blob/main/ch12_christoffel_riemann.ipynb) |
 
 ## Running the notebooks
 
